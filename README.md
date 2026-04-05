@@ -9,7 +9,7 @@ Cuando el usuario desbloquea la pantalla, la aplicación realiza lo siguiente:
   `"Se detectó desbloqueo de pantalla"`.
 - Genera un **Intent implícito** para abrir la aplicación de llamadas con el número seteado.  
   - Se utiliza `ACTION_DIAL` para abrir el marcador sin necesidad de permisos adicionales.
-  - 
+    
 ## Funcionamiento
 
 1. Ejecutar la aplicación en un dispositivo real o emulador.  
