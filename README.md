@@ -1,4 +1,4 @@
-# Desbloqueo de Pantalla
+# Desbloqueo de Pantalla (con BroadcastReceiver)
 Esta aplicación Android implementa un **BroadcastReceiver** que escucha el evento del sistema correspondiente al **desbloqueo de la pantalla** (`Intent.ACTION_USER_PRESENT`).  
 
 Cuando el usuario desbloquea la pantalla, la aplicación realiza lo siguiente:
